@@ -17,6 +17,8 @@ O teste consiste em codificar um `<header>` responsivo. Em telas menores do que 
 * Para fazer a ação do menu em JavaScript use o `/public/assets/js/main.js` (pode usar jQuery)
 * Mas não necessariamente essa ação precisa ser feita em JavaScript, pode usar outras soluções :)
 
+Caso queira seguir um padrão de código, pode utilizar esse [coding-style](https://github.com/LFeh/coding-style)
+
 ### Entrega
 
 * Faça um Pull Request até o prazo limite
