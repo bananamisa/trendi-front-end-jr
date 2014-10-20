@@ -21,7 +21,7 @@ Caso queira seguir um padrão de código, pode utilizar esse [coding-style](http
 
 ### Entrega
 
-* Faça um ****Pull Request**** até o prazo limite
+* Faça um **Pull Request** até o prazo limite
 * Boa sorte \o/
 
 ### License
