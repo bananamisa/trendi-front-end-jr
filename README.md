@@ -1,4 +1,4 @@
-![Trendi, Experience Designers](logo-trendi.jpg "Trendi Logo")
+![Trendi, Experience Designers](trendi-logo.jpg "Trendi Logo")
 
 Agora você vai poder mostrar um pouco do que sabe! :D
 
