@@ -26,4 +26,4 @@ Caso queira seguir um padrão de código, pode utilizar esse [coding-style](http
 
 ### License
 
-MIT License © Trendi
+MIT License © [Trendi](http://www.trendi.com.br/)
